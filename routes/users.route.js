@@ -19,4 +19,6 @@ router.put('/updateUser/:id' , updateUser)
 //delete an user 
 router.delete('/updateUser/:id' , deleteUser)
 
+
+//export route of user
 module.exports = router
